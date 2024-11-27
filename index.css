@@ -7,3 +7,19 @@ button{
    color: black;
    text-decoration-color: white;
 }
+
+
+h1{
+color: red;
+
+}
+
+p{
+  font-weight: bold;
+}
+
+img{
+height: 400;
+width: 600;
+
+}
